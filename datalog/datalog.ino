@@ -69,7 +69,7 @@ void loop() {
     
     if (r < 0){
 
-      Serial.println(http.errorToString());
+      Serial.println(http.errorToString(r));
 
     }else{
 
