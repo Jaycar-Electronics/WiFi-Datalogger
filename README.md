@@ -1,7 +1,9 @@
 # WiFi Datalogger
  Use ESP8266 and IFTTT Services to control the cloud
 
-Do you have a garden or home-brewing set up that you need to monitor multiple things at once? This project uses the popular "IF THIS THEN THAT" service (IFTTT) with the MCP3008 chip to send your sensor data to the cloud! Example code has Google sheets and Gmail functionality, and 3 sensors are bundled below. Try out all 3 or mix and match your own.									
+Do you have a garden or home-brewing set up that you need to monitor multiple things at once? This project uses the popular "IF THIS THEN THAT" service (IFTTT) with the MCP3008 chip to send your sensor data to the cloud! Example code has Google sheets and Gmail functionality, and 3 sensors are bundled below. Try out all 3 or mix and match your own.
+
+
 | Input | Output | 
 | ----- | ------ | 
 | Sensors | Graphs |
